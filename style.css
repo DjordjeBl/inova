@@ -856,6 +856,9 @@ hr {
 	padding: 0;
 }
 
+#dragan-image {
+	margin-top: .5em;
+}
 
 
 /* Make sure embeds and iframes fit their containers. */
