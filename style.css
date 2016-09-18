@@ -289,11 +289,15 @@ cite,
 em,
 i {
 	font-style: italic;
+	padding-left: 5px;
 }
 
 blockquote {
-	margin: 0 1.5em;
+	display: block;
+	border-left: 4px solid deepskyblue;
+	font-size: 16px;
 }
+
 
 address {
 	margin: 0 0 1.5em;
